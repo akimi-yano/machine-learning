@@ -1,1 +1,3 @@
-# ml-dl-fundamentals
+# machine learning
+
+This is a repo for machine learning.
